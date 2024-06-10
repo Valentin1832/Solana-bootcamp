@@ -8,7 +8,7 @@
  <img src="./img/result1.png">
 </p>
 
-**The result of the `create-token-account' program:**
+**The result of the `create-token-account` program:**
 
 <p>
  <img src="./img/result2.png">
